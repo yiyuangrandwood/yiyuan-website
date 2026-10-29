@@ -1,0 +1,99 @@
+{
+  "category": "particleboard",
+  "title": {
+    "en": "Plain Particleboard",
+    "zh": "素面刨花板"
+  },
+  "summary": {
+    "en": "A plain board option when your own facing and processing plan comes first.",
+    "zh": "为后续饰面与加工留出选择空间。"
+  },
+  "description": {
+    "en": "Specify the base board around the part you are making. Plain particleboard lets you discuss thickness, sheet size and the surface treatment you plan to add.\nShare your cutting, facing and edging requirements so the board configuration can be matched to your production brief.",
+    "zh": "从准备制作的部件出发选择基材。素面刨花板便于围绕厚度、幅面及后续饰面方式沟通材料配置。\n请提供开料、贴面与封边要求，以便按实际加工需求确认板材规格。"
+  },
+  "features": {
+    "en": [
+      "An unfaced surface for a separately specified finishing process.",
+      "Board faces, edges and sheet stacks shown together.",
+      "Thickness, dimensions and grade agreed against the intended use."
+    ],
+    "zh": [
+      "素面基材，便于另行确认饰面工艺。",
+      "配图同时展示板面、截面和堆垛。",
+      "围绕实际用途确认厚度、幅面和等级。"
+    ]
+  },
+  "applications": {
+    "en": "Furniture components and panel processing, subject to the selected board grade and finish.",
+    "zh": "家具部件及板材加工，具体适用性以所选板材等级和后续饰面为准。"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product type",
+        "zh": "产品类型"
+      },
+      "value": {
+        "en": "Particleboard",
+        "zh": "刨花板"
+      }
+    },
+    {
+      "label": {
+        "en": "Surface / core option",
+        "zh": "表面／芯色选项"
+      },
+      "value": {
+        "en": "Unfaced particleboard",
+        "zh": "素面刨花板"
+      }
+    },
+    {
+      "label": {
+        "en": "Thickness & sheet size",
+        "zh": "厚度与幅面"
+      },
+      "value": {
+        "en": "Confirm for the selected specification",
+        "zh": "按所选规格确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order",
+        "zh": "起订量"
+      },
+      "value": {
+        "en": "Confirm by specification and order mix",
+        "zh": "按规格及订单组合确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Sample & lead time",
+        "zh": "样品与交期"
+      },
+      "value": {
+        "en": "Request current sample terms and production schedule",
+        "zh": "询价时确认样品条件及当前排产"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/particleboard/particleboard-09.jpg",
+  "gallery": [
+    "images/products/particleboard/particleboard-01.jpg",
+    "images/products/particleboard/particleboard-02.jpg",
+    "images/products/particleboard/particleboard-05.jpg",
+    "images/products/particleboard/particleboard-10.jpg",
+    "images/products/particleboard/particleboard-11.jpg",
+    "images/products/particleboard/particleboard-14.jpg",
+    "images/products/particleboard/particleboard-15.jpg",
+    "images/products/particleboard/particleboard-17.jpg",
+    "images/products/particleboard/particleboard-19.jpg",
+    "images/products/particleboard/particleboard-20.jpg"
+  ],
+  "order": 2,
+  "published": true
+}

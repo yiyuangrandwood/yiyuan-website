@@ -1,0 +1,100 @@
+{
+  "category": "mdf",
+  "title": {
+    "en": "Green-core Faced MDF",
+    "zh": "绿芯饰面密度板"
+  },
+  "summary": {
+    "en": "Choose the surface, then confirm the board grade for its environment.",
+    "zh": "先选饰面，再按使用环境核对板材等级。"
+  },
+  "description": {
+    "en": "Green-core MDF is shown with white and woodgrain surface options. Compare the look of the finished panel, then confirm the core specification and edge treatment for the component you are making.\nWhere moisture exposure matters, discuss the conditions and request the relevant grade information before ordering.",
+    "zh": "配图展示白色及木纹饰面的绿芯密度板。可先比较成品表面，再按具体部件确认芯材配置与边部处理。\n如使用环境涉及潮气，请说明实际条件，并在下单前核对对应等级资料。"
+  },
+  "features": {
+    "en": [
+      "Green core with white and woodgrain surface examples.",
+      "Coordinate the surface and edging requirements together.",
+      "Match the board grade to the intended environment."
+    ],
+    "zh": [
+      "绿色芯层，配有白色及木纹饰面示例。",
+      "可一并核对饰面与封边要求。",
+      "按实际使用环境确认所需板材等级。"
+    ]
+  },
+  "applications": {
+    "en": "Furniture and cabinet component enquiries where moisture conditions and the selected grade are confirmed.",
+    "zh": "需要明确潮气条件及板材等级的家具、柜体部件选型需求。"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product type",
+        "zh": "产品类型"
+      },
+      "value": {
+        "en": "MDF",
+        "zh": "密度板"
+      }
+    },
+    {
+      "label": {
+        "en": "Surface / core option",
+        "zh": "表面／芯色选项"
+      },
+      "value": {
+        "en": "Green core; white / woodgrain surface examples",
+        "zh": "绿色芯层，白色／木纹饰面示例"
+      }
+    },
+    {
+      "label": {
+        "en": "Thickness & sheet size",
+        "zh": "厚度与幅面"
+      },
+      "value": {
+        "en": "Confirm for the selected specification",
+        "zh": "按所选规格确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order",
+        "zh": "起订量"
+      },
+      "value": {
+        "en": "Confirm by specification and order mix",
+        "zh": "按规格及订单组合确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Sample & lead time",
+        "zh": "样品与交期"
+      },
+      "value": {
+        "en": "Request current sample terms and production schedule",
+        "zh": "询价时确认样品条件及当前排产"
+      }
+    },
+    {
+      "label": {
+        "en": "Moisture grade",
+        "zh": "防潮等级"
+      },
+      "value": {
+        "en": "Confirm the grade and use conditions for the proposed model",
+        "zh": "按拟供型号确认等级及适用条件"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/mdf/mdf-22.jpg",
+  "gallery": [
+    "images/products/mdf/mdf-21.jpg"
+  ],
+  "order": 9,
+  "published": true
+}

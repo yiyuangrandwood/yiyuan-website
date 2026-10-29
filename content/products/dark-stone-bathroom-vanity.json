@@ -1,0 +1,101 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Dark & Stone-Look Bathroom Vanity",
+    "zh": "深色与石纹浴室柜"
+  },
+  "summary": {
+    "en": "Compare a darker cabinet front with a stone-look alternative.",
+    "zh": "在深色与石纹外观之间比较浴室搭配。"
+  },
+  "description": {
+    "en": "Wall-mounted vanity arrangements are shown in dark and stone-look appearances, with both closed and open storage views. Use the images to discuss the cabinet front, basin and mirror combination you need.\nConfirm cabinet materials, water-exposure requirements, fittings and installation details for the selected configuration.",
+    "zh": "悬挂式浴室柜提供深色及石纹外观，并展示封闭与打开的收纳效果，可围绕柜体、盆体和镜面组合沟通选型。\n请按所选配置确认柜体材料、接触水条件、五金及安装细节。"
+  },
+  "features": {
+    "en": [
+      "Wall-mounted vanity arrangements.",
+      "Dark and stone-look cabinet-front examples.",
+      "Basin, mirror and storage fittings confirmed with the model."
+    ],
+    "zh": [
+      "悬挂式浴室柜布局。",
+      "配有深色及石纹柜体正面示例。",
+      "盆体、镜面及收纳五金按款式确认。"
+    ]
+  },
+  "applications": {
+    "en": "Bathroom furnishing projects with materials and installation confirmed",
+    "zh": "需明确材料及安装条件的浴室家具项目"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Dark & Stone-Look Bathroom Vanity",
+        "zh": "深色与石纹浴室柜"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Dark / stone-look fronts",
+        "zh": "深色／石纹正面"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Bathroom furnishing projects with materials and installation confirmed",
+        "zh": "需明确材料及安装条件的浴室家具项目"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-20.jpg",
+  "gallery": [
+    "images/products/furniture/furniture-22.jpg",
+    "images/products/furniture/furniture-21.jpg"
+  ],
+  "order": 24,
+  "published": true
+}

@@ -1,0 +1,100 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Wire-Basket Coffee & Side Tables",
+    "zh": "金属篮式茶几与边桌"
+  },
+  "summary": {
+    "en": "A wood-look top and an open wire base in one light-looking piece.",
+    "zh": "用木纹桌面与通透篮式底座搭配休闲空间。"
+  },
+  "description": {
+    "en": "Round tables are shown with wood-look tops and dark open wire bases, including a paired arrangement. The open base gives the furniture a lighter visual outline beside seating.\nConfirm the table diameter, height, top material and whether you want a single table or a matching pair.",
+    "zh": "圆桌采用木纹桌面与深色开放篮式底座，配图也展示双桌搭配。通透底座使家具在座位旁保持较轻的视觉轮廓。\n请确认桌面直径、高度、台面材料，以及单桌或双桌组合需求。"
+  },
+  "features": {
+    "en": [
+      "Round top with an open wire-base design.",
+      "Single-table and paired arrangements shown.",
+      "Diameter, height and top material confirmed for the model."
+    ],
+    "zh": [
+      "圆形桌面与开放篮式底座。",
+      "配有单桌及双桌搭配示例。",
+      "直径、高度及桌面材料按款式确认。"
+    ]
+  },
+  "applications": {
+    "en": "Living rooms, lounges and bedside table enquiries",
+    "zh": "客厅、休闲区及床边桌选型"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Wire-Basket Coffee & Side Tables",
+        "zh": "金属篮式茶几与边桌"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Wood-look top with dark wire base",
+        "zh": "木纹桌面与深色金属篮式底座"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Living rooms, lounges and bedside table enquiries",
+        "zh": "客厅、休闲区及床边桌选型"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-18.jpg",
+  "gallery": [
+    "images/products/furniture/furniture-19.jpg"
+  ],
+  "order": 23,
+  "published": true
+}

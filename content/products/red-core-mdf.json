@@ -1,0 +1,100 @@
+{
+  "category": "mdf",
+  "title": {
+    "en": "Red-core Faced MDF",
+    "zh": "红芯饰面密度板"
+  },
+  "summary": {
+    "en": "A coloured-core option to discuss against your project specification.",
+    "zh": "按项目要求核对红芯板材与饰面配置。"
+  },
+  "description": {
+    "en": "Red-core MDF is shown with light and dark decorative surfaces. Start with the finish and application you need, then confirm the exact board grade.\nFor a project with fire-performance requirements, request the applicable test standard, classification and report for the proposed model before placing an order.",
+    "zh": "配图展示浅色及深色饰面的红芯密度板。可先按所需外观与用途沟通，再确认具体板材等级。\n如项目对燃烧性能有要求，请在下单前核对拟供型号对应的测试标准、等级及报告。"
+  },
+  "features": {
+    "en": [
+      "Red core with two decorative surface examples.",
+      "Discuss core grade and visible finish as one specification.",
+      "Fire-performance documentation confirmed against the project requirement."
+    ],
+    "zh": [
+      "红色芯层，配有两种饰面示例。",
+      "芯材等级与可见表面作为同一规格核对。",
+      "项目所需燃烧性能资料按对应型号确认。"
+    ]
+  },
+  "applications": {
+    "en": "Interior panel enquiries requiring a defined board grade and supporting documentation.",
+    "zh": "需要明确板材等级及配套资料的室内板材选型需求。"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product type",
+        "zh": "产品类型"
+      },
+      "value": {
+        "en": "MDF",
+        "zh": "密度板"
+      }
+    },
+    {
+      "label": {
+        "en": "Surface / core option",
+        "zh": "表面／芯色选项"
+      },
+      "value": {
+        "en": "Red core; light / dark surface examples",
+        "zh": "红色芯层，浅色／深色饰面示例"
+      }
+    },
+    {
+      "label": {
+        "en": "Thickness & sheet size",
+        "zh": "厚度与幅面"
+      },
+      "value": {
+        "en": "Confirm for the selected specification",
+        "zh": "按所选规格确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order",
+        "zh": "起订量"
+      },
+      "value": {
+        "en": "Confirm by specification and order mix",
+        "zh": "按规格及订单组合确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Sample & lead time",
+        "zh": "样品与交期"
+      },
+      "value": {
+        "en": "Request current sample terms and production schedule",
+        "zh": "询价时确认样品条件及当前排产"
+      }
+    },
+    {
+      "label": {
+        "en": "Fire classification",
+        "zh": "燃烧性能等级"
+      },
+      "value": {
+        "en": "Confirm the standard, classification and supporting report for the supplied model",
+        "zh": "核对拟供型号的标准、等级及配套报告"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/mdf/mdf-19.jpg",
+  "gallery": [
+    "images/products/mdf/mdf-20.jpg"
+  ],
+  "order": 8,
+  "published": true
+}

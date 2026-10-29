@@ -1,0 +1,98 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "White Door Storage Cabinet",
+    "zh": "白色门式储物柜"
+  },
+  "summary": {
+    "en": "Closed-front storage for a coordinated entryway or room scheme.",
+    "zh": "用封闭式柜门整理入户或室内收纳区域。"
+  },
+  "description": {
+    "en": "A white storage cabinet shown with several doors and a raised lower plinth. The closed-front design keeps the overall appearance simple while you plan storage around the room.\nConfirm the internal shelf layout, dimensions, ventilation and intended contents for your selected configuration.",
+    "zh": "白色储物柜采用多门正面及下部底座布局，便于在规划收纳时保持整体外观简洁。\n请按所选配置核对内部隔板、尺寸、通风及拟存放物品。"
+  },
+  "features": {
+    "en": [
+      "Closed-door storage arrangement.",
+      "White front with a simple cabinet profile.",
+      "Internal shelving and intended use confirmed before ordering."
+    ],
+    "zh": [
+      "封闭式柜门收纳布局。",
+      "白色正面与简洁柜体轮廓。",
+      "下单前核对内部隔板及实际用途。"
+    ]
+  },
+  "applications": {
+    "en": "Entryways and general household storage",
+    "zh": "入户及家居综合收纳"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "White Door Storage Cabinet",
+        "zh": "白色门式储物柜"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "White cabinet with multiple doors",
+        "zh": "多门白色柜体"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Entryways and general household storage",
+        "zh": "入户及家居综合收纳"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-16.jpg",
+  "gallery": [],
+  "order": 21,
+  "published": true
+}

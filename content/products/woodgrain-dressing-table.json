@@ -1,0 +1,98 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Woodgrain Dressing Table",
+    "zh": "木纹梳妆台"
+  },
+  "summary": {
+    "en": "A warm wood-look arrangement with the mirror and small-item storage together.",
+    "zh": "用木纹外观整合镜面与日常小物收纳。"
+  },
+  "description": {
+    "en": "A woodgrain-look dressing table shown with an upright mirror and storage arranged around the upper section. The coordinated appearance is a starting point for a warmer bedroom palette.\nConfirm the exact finish, dimensions, hardware and stool requirements with your selected model.",
+    "zh": "木纹外观梳妆台配有竖向镜面及上部收纳布局，可作为暖色卧室配色的选款方向。\n具体饰面、尺寸、五金与坐凳需求按所选款式核对。"
+  },
+  "features": {
+    "en": [
+      "Woodgrain-look surface treatment.",
+      "Mirror and upper storage in one arrangement.",
+      "Coordinate the finish with other bedroom furniture."
+    ],
+    "zh": [
+      "木纹外观表面。",
+      "镜面与上部收纳组合。",
+      "可与其他卧室家具核对配色。"
+    ]
+  },
+  "applications": {
+    "en": "Bedrooms and dressing corners",
+    "zh": "卧室与梳妆角落"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Woodgrain Dressing Table",
+        "zh": "木纹梳妆台"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Light woodgrain look",
+        "zh": "浅木纹外观"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Bedrooms and dressing corners",
+        "zh": "卧室与梳妆角落"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-14.jpg",
+  "gallery": [],
+  "order": 19,
+  "published": true
+}

@@ -1,0 +1,100 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Two-Tone TV Console",
+    "zh": "双色电视柜"
+  },
+  "summary": {
+    "en": "Open and closed storage in a low-profile living-room piece.",
+    "zh": "用低矮柜体组合开放格与封闭收纳。"
+  },
+  "description": {
+    "en": "A low-profile TV console shown with light drawer fronts, a darker frame and open centre storage. The two-tone design provides a clear visual contrast while keeping different media items in separate areas.\nConfirm the required width, internal layout, leg details and matching pieces for your room schedule.",
+    "zh": "低矮电视柜搭配浅色抽屉正面、深色框体及中部开放格，可将不同影音物品分区摆放。\n请按空间清单确认宽度、内部布局、柜脚细节及配套家具需求。"
+  },
+  "features": {
+    "en": [
+      "Light and dark two-tone appearance.",
+      "Drawer storage with open centre compartments.",
+      "Confirm cabinet width and matching furniture requirements."
+    ],
+    "zh": [
+      "深浅双色外观。",
+      "抽屉收纳结合中部开放格。",
+      "柜体宽度及配套家具需求另行确认。"
+    ]
+  },
+  "applications": {
+    "en": "Living rooms and media areas",
+    "zh": "客厅与影音区域"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Two-Tone TV Console",
+        "zh": "双色电视柜"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Light fronts with a darker frame and raised legs",
+        "zh": "浅色正面、深色框体与抬高柜脚"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Living rooms and media areas",
+        "zh": "客厅与影音区域"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": true,
+  "cover": "images/products/furniture/furniture-08.jpg",
+  "gallery": [
+    "images/products/furniture/furniture-09.jpg"
+  ],
+  "order": 15,
+  "published": true
+}

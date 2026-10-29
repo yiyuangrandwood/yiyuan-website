@@ -1,0 +1,98 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Wall-Mounted Display Shelves",
+    "zh": "墙面装饰置物架"
+  },
+  "summary": {
+    "en": "Turn available wall space into an open display arrangement.",
+    "zh": "利用墙面空间布置开放展示与收纳。"
+  },
+  "description": {
+    "en": "A wall-shelf arrangement with several open compartments for books, small objects and decorative items. The offset layout gives you a starting point for planning a feature wall without a floor-standing unit.\nConfirm the overall size, shelf depth, materials, fixing method and required load specification before ordering.",
+    "zh": "多个开放格可用于摆放书籍、小物件与装饰品，错落布局便于规划不占地面位置的展示墙。\n下单前请核对整体尺寸、隔板深度、材料、固定方式及所需承重规格。"
+  },
+  "features": {
+    "en": [
+      "Open compartments in an offset wall arrangement.",
+      "Display surfaces for books and decorative objects.",
+      "Fixing method and load requirements confirmed for the selected model."
+    ],
+    "zh": [
+      "错落布置的墙面开放格。",
+      "可用于书籍与装饰物展示。",
+      "固定方式及承重需求按所选款式确认。"
+    ]
+  },
+  "applications": {
+    "en": "Living rooms, study spaces and display walls",
+    "zh": "客厅、学习空间及展示墙"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Wall-Mounted Display Shelves",
+        "zh": "墙面装饰置物架"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Wood-look open wall compartments",
+        "zh": "木纹开放式墙面格架"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Living rooms, study spaces and display walls",
+        "zh": "客厅、学习空间及展示墙"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-12.jpg",
+  "gallery": [],
+  "order": 17,
+  "published": true
+}

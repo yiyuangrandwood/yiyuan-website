@@ -1,0 +1,90 @@
+{
+  "category": "mdf",
+  "title": {
+    "en": "Woodgrain Faced MDF",
+    "zh": "木纹饰面密度板"
+  },
+  "summary": {
+    "en": "Compare wood tones and decorative finishes before you specify the panel.",
+    "zh": "从木纹色调与饰面效果开始确认材料。"
+  },
+  "description": {
+    "en": "Explore a woodgrain-faced MDF option for coordinated furniture and interior surfaces. Use the finish images to start a colour discussion, then confirm the current decor code, texture and base-board specification.\nA reviewed sample helps you match the panel with the other materials in your design.",
+    "zh": "用于协调家具与室内表面效果的木纹饰面密度板选项。可用配图发起花色沟通，再确认当前花色编号、表面质感及基材规格。\n通过小样核对，便于与设计中的其他材料搭配。"
+  },
+  "features": {
+    "en": [
+      "Woodgrain finish reference and a range of colour samples.",
+      "Compare tone and texture with your furniture design.",
+      "Panel thickness and specification confirmed for the selected decor."
+    ],
+    "zh": [
+      "配有木纹效果参考及多款花色小样。",
+      "可围绕家具设计核对色调与质感。",
+      "所选花色对应的厚度与板材配置另行确认。"
+    ]
+  },
+  "applications": {
+    "en": "Furniture fronts, cabinet components and interior decorative parts where the board grade is appropriate.",
+    "zh": "适用于对应板材等级允许的家具表面、柜体部件及室内装饰部件。"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product type",
+        "zh": "产品类型"
+      },
+      "value": {
+        "en": "MDF",
+        "zh": "密度板"
+      }
+    },
+    {
+      "label": {
+        "en": "Surface / core option",
+        "zh": "表面／芯色选项"
+      },
+      "value": {
+        "en": "Woodgrain decorative surface; sample colours shown",
+        "zh": "木纹装饰表面，附花色小样展示"
+      }
+    },
+    {
+      "label": {
+        "en": "Thickness & sheet size",
+        "zh": "厚度与幅面"
+      },
+      "value": {
+        "en": "Confirm for the selected specification",
+        "zh": "按所选规格确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order",
+        "zh": "起订量"
+      },
+      "value": {
+        "en": "Confirm by specification and order mix",
+        "zh": "按规格及订单组合确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Sample & lead time",
+        "zh": "样品与交期"
+      },
+      "value": {
+        "en": "Request current sample terms and production schedule",
+        "zh": "询价时确认样品条件及当前排产"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/mdf/mdf-06.jpg",
+  "gallery": [
+    "images/products/mdf/mdf-12.jpg"
+  ],
+  "order": 6,
+  "published": true
+}

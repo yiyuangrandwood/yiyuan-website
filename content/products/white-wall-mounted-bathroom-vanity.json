@@ -1,0 +1,101 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "White Wall-Mounted Bathroom Vanity",
+    "zh": "白色悬挂式浴室柜"
+  },
+  "summary": {
+    "en": "A clean-lined vanity arrangement for a coordinated bathroom brief.",
+    "zh": "用简洁的柜体与镜面组合协调浴室布局。"
+  },
+  "description": {
+    "en": "A white wall-mounted vanity design shown with basin and mirror arrangements. The raised cabinet profile leaves the floor line visible and gives the bathroom a lighter appearance.\nConfirm the basin, mirror, fixing requirements, cabinet materials and dimensions as part of the quotation.",
+    "zh": "白色悬挂式浴室柜配有盆体及镜面方案展示。柜体抬离地面，使地面线条保持可见，视觉更轻盈。\n报价时请一并确认盆体、镜面、安装固定要求、柜体材料及尺寸。"
+  },
+  "features": {
+    "en": [
+      "Wall-mounted cabinet profile.",
+      "White appearance with basin and mirror examples.",
+      "Cabinet, basin and mirror inclusion confirmed separately."
+    ],
+    "zh": [
+      "悬挂式柜体外观。",
+      "白色方案，配有盆体与镜面示例。",
+      "柜体、盆体及镜面的供货范围分别确认。"
+    ]
+  },
+  "applications": {
+    "en": "Bathroom furnishing projects; confirm material suitability and installation",
+    "zh": "浴室家具项目，需确认材料适用性与安装要求"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "White Wall-Mounted Bathroom Vanity",
+        "zh": "白色悬挂式浴室柜"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "White cabinet; basin and mirror arrangements shown",
+        "zh": "白色柜体，附盆体及镜面方案"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Bathroom furnishing projects; confirm material suitability and installation",
+        "zh": "浴室家具项目，需确认材料适用性与安装要求"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-03.jpg",
+  "gallery": [
+    "images/products/furniture/furniture-04.jpg",
+    "images/products/furniture/furniture-05.jpg"
+  ],
+  "order": 12,
+  "published": true
+}

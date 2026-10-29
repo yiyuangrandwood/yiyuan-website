@@ -1,0 +1,88 @@
+{
+  "category": "particleboard",
+  "title": {
+    "en": "Woodgrain Faced Particleboard",
+    "zh": "木纹饰面刨花板"
+  },
+  "summary": {
+    "en": "Bring a woodgrain look into your furniture material schedule.",
+    "zh": "用木纹饰面衔接家具与空间的设计风格。"
+  },
+  "description": {
+    "en": "A woodgrain-faced option for buyers matching visible furniture surfaces. Start with the tone and grain direction you want, then confirm the base board, texture and required thickness.\nReview a current colour sample before finalising a matching order.",
+    "zh": "适合需要协调家具可见表面效果的选材需求。先确定色调和纹理方向，再确认基材配置、表面质感与所需厚度。\n配色订单建议通过当前花色小样核对实际效果。"
+  },
+  "features": {
+    "en": [
+      "A woodgrain surface to coordinate visible furniture parts.",
+      "Discuss tone, texture and grain direction together.",
+      "Confirm the current decor code using a sample."
+    ],
+    "zh": [
+      "木纹表面，方便协调家具可见部件。",
+      "色调、表面质感与纹理方向可一并核对。",
+      "通过样品确认当前花色编号。"
+    ]
+  },
+  "applications": {
+    "en": "Furniture panels and interior components where the selected board grade is suitable.",
+    "zh": "适用于对应板材等级允许的家具面板及室内部件。"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product type",
+        "zh": "产品类型"
+      },
+      "value": {
+        "en": "Particleboard",
+        "zh": "刨花板"
+      }
+    },
+    {
+      "label": {
+        "en": "Surface / core option",
+        "zh": "表面／芯色选项"
+      },
+      "value": {
+        "en": "Woodgrain decorative surface",
+        "zh": "木纹装饰表面"
+      }
+    },
+    {
+      "label": {
+        "en": "Thickness & sheet size",
+        "zh": "厚度与幅面"
+      },
+      "value": {
+        "en": "Confirm for the selected specification",
+        "zh": "按所选规格确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order",
+        "zh": "起订量"
+      },
+      "value": {
+        "en": "Confirm by specification and order mix",
+        "zh": "按规格及订单组合确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Sample & lead time",
+        "zh": "样品与交期"
+      },
+      "value": {
+        "en": "Request current sample terms and production schedule",
+        "zh": "询价时确认样品条件及当前排产"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/particleboard/particleboard-12.jpg",
+  "gallery": [],
+  "order": 3,
+  "published": true
+}

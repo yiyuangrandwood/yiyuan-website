@@ -1,0 +1,98 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "White Dressing Table with Mirror",
+    "zh": "白色镜面梳妆台"
+  },
+  "summary": {
+    "en": "A dedicated dressing corner with the mirror and storage brought together.",
+    "zh": "把镜面与收纳整合到一个梳妆角落。"
+  },
+  "description": {
+    "en": "A white dressing-table design with a tall mirror, side shelves and drawer storage. The compact arrangement brings everyday cosmetics and accessories around one seated area.\nConfirm the overall dimensions, mirror arrangement and whether a stool is included when you enquire.",
+    "zh": "白色梳妆台将高镜、侧边置物格和抽屉收纳放在一起，便于围绕坐式梳妆区域整理日常用品。\n询价时请确认整体尺寸、镜面配置，以及是否需要配套坐凳。"
+  },
+  "features": {
+    "en": [
+      "Mirror and storage arranged around the dressing area.",
+      "White appearance for a light interior scheme.",
+      "Confirm stool, hardware and packing requirements with the model."
+    ],
+    "zh": [
+      "围绕梳妆区域配置镜面与收纳。",
+      "白色外观适合浅色空间搭配。",
+      "坐凳、五金及包装要求按款式确认。"
+    ]
+  },
+  "applications": {
+    "en": "Bedrooms and dressing corners",
+    "zh": "卧室与梳妆区域"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "White Dressing Table with Mirror",
+        "zh": "白色镜面梳妆台"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "White finish; mirror, open shelves and drawers",
+        "zh": "白色外观，镜面、开放格及抽屉组合"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Bedrooms and dressing corners",
+        "zh": "卧室与梳妆区域"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-01.jpg",
+  "gallery": [],
+  "order": 10,
+  "published": true
+}

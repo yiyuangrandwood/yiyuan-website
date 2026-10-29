@@ -1,0 +1,98 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Dressing Table with Side Drawers",
+    "zh": "侧抽柜组合梳妆台"
+  },
+  "summary": {
+    "en": "A seated dressing space with extra drawer storage alongside.",
+    "zh": "在坐式梳妆区旁增加抽屉收纳。"
+  },
+  "description": {
+    "en": "A dressing-table arrangement combining a mirror, work surface and side drawer unit. The separated storage sections make it easier to plan cosmetics, accessories and other small items around the dressing area.\nConfirm the complete footprint, stool inclusion and the finish required for your bedroom scheme.",
+    "zh": "镜面、操作台面与侧边抽屉柜组合，便于围绕梳妆区域分区收纳化妆品、配饰及小件物品。\n请核对整套占地尺寸、坐凳配置及卧室搭配所需饰面。"
+  },
+  "features": {
+    "en": [
+      "Mirror, tabletop and side drawers combined.",
+      "Separate storage zones around the seated area.",
+      "Confirm the full footprint and accessory inclusions."
+    ],
+    "zh": [
+      "镜面、台面与侧边抽屉组合。",
+      "围绕坐式区域设置不同收纳区。",
+      "整套占地尺寸及配件范围另行确认。"
+    ]
+  },
+  "applications": {
+    "en": "Bedrooms and dressing areas",
+    "zh": "卧室及梳妆区域"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Dressing Table with Side Drawers",
+        "zh": "侧抽柜组合梳妆台"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Contrasting dark and light surfaces",
+        "zh": "深浅对比表面"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Bedrooms and dressing areas",
+        "zh": "卧室及梳妆区域"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-13.jpg",
+  "gallery": [],
+  "order": 18,
+  "published": true
+}

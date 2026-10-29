@@ -1,0 +1,100 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Tilt-Out Shoe Storage Cabinet",
+    "zh": "翻斗式鞋柜"
+  },
+  "summary": {
+    "en": "Keep footwear storage organised behind a coordinated cabinet front.",
+    "zh": "将鞋履收纳整合到统一的柜体正面。"
+  },
+  "description": {
+    "en": "A shoe-cabinet design shown with tilt-out storage sections and an adjacent cupboard. Open and closed views help you compare the access arrangement and overall appearance.\nConfirm the available depth, internal dimensions, footwear sizes and fixing requirements before selecting a model.",
+    "zh": "鞋柜配有翻斗式收纳区域及侧边柜门，开合视图便于查看取放方式与整体外观。\n选款前请确认可用进深、内部尺寸、鞋码范围及固定安装要求。"
+  },
+  "features": {
+    "en": [
+      "Tilt-out sections shown in open and closed views.",
+      "Additional side cupboard storage.",
+      "Confirm internal capacity against the footwear you need to store."
+    ],
+    "zh": [
+      "翻斗区域提供开合效果展示。",
+      "带有侧边柜门收纳区。",
+      "按拟收纳的鞋履确认内部容量。"
+    ]
+  },
+  "applications": {
+    "en": "Hallways, entryways and shoe-storage areas",
+    "zh": "走廊、入户及鞋履收纳区域"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Tilt-Out Shoe Storage Cabinet",
+        "zh": "翻斗式鞋柜"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Light and dark cabinet-front combination",
+        "zh": "深浅柜体正面组合"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Hallways, entryways and shoe-storage areas",
+        "zh": "走廊、入户及鞋履收纳区域"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-10.jpg",
+  "gallery": [
+    "images/products/furniture/furniture-11.jpg"
+  ],
+  "order": 16,
+  "published": true
+}

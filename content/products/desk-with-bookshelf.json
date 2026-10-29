@@ -1,0 +1,98 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Desk with Open Bookshelf",
+    "zh": "书架组合电脑桌"
+  },
+  "summary": {
+    "en": "Bring the work surface and open storage into one study area.",
+    "zh": "将工作台面与开放收纳集中到一个学习办公区。"
+  },
+  "description": {
+    "en": "A desk arrangement combining a wood-look work surface with dark open framing and shelving. Books, files and everyday desk items can be planned around the same workstation.\nShare your available floor space, required tabletop size and packing preferences to define the model you need.",
+    "zh": "木纹台面搭配深色开放框架及置物架，可围绕同一工作位置安排书籍、文件和常用桌面物品。\n请提供可用空间、台面尺寸需求及包装偏好，以便确认具体配置。"
+  },
+  "features": {
+    "en": [
+      "Worktop and vertical open storage shown together.",
+      "Wood-look and dark-frame colour combination.",
+      "Confirm desktop dimensions and assembly requirements before ordering."
+    ],
+    "zh": [
+      "工作台面与竖向开放收纳组合。",
+      "木纹与深色框架搭配。",
+      "下单前确认台面尺寸及组装要求。"
+    ]
+  },
+  "applications": {
+    "en": "Home offices, study rooms and work corners",
+    "zh": "家庭办公、书房及工作角落"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Desk with Open Bookshelf",
+        "zh": "书架组合电脑桌"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Wood-look tabletop with dark framing",
+        "zh": "木纹台面与深色框架"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Home offices, study rooms and work corners",
+        "zh": "家庭办公、书房及工作角落"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-02.jpg",
+  "gallery": [],
+  "order": 11,
+  "published": true
+}

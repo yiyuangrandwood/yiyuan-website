@@ -1,0 +1,88 @@
+{
+  "category": "mdf",
+  "title": {
+    "en": "Dark Faced MDF",
+    "zh": "深色饰面密度板"
+  },
+  "summary": {
+    "en": "A darker surface for furniture designs with a defined colour palette.",
+    "zh": "为需要深色表面的家具设计提供选材方向。"
+  },
+  "description": {
+    "en": "A dark-faced panel option for furniture and interior components. Confirm the colour, surface texture and board thickness together so the visible finish works with the rest of your project.\nAsk for a current sample when matching this panel with edging or adjoining materials.",
+    "zh": "面向家具与室内部件的深色饰面板选项。建议同时确认颜色、表面质感和厚度，使可见表面与项目其他材料协调。\n如需配套封边或相邻材料，可通过当前样品核对。"
+  },
+  "features": {
+    "en": [
+      "Dark decorative surface shown in the supplied photograph.",
+      "Coordinate the board colour with edging and other components.",
+      "Confirm thickness and the required surface specification."
+    ],
+    "zh": [
+      "配图展示深色装饰表面。",
+      "可结合封边及其他部件一起核对颜色。",
+      "厚度与所需表面配置另行确认。"
+    ]
+  },
+  "applications": {
+    "en": "Furniture and interior panels, subject to the selected specification.",
+    "zh": "家具及室内板材，具体按所选规格确认。"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product type",
+        "zh": "产品类型"
+      },
+      "value": {
+        "en": "MDF",
+        "zh": "密度板"
+      }
+    },
+    {
+      "label": {
+        "en": "Surface / core option",
+        "zh": "表面／芯色选项"
+      },
+      "value": {
+        "en": "Dark decorative surface",
+        "zh": "深色装饰表面"
+      }
+    },
+    {
+      "label": {
+        "en": "Thickness & sheet size",
+        "zh": "厚度与幅面"
+      },
+      "value": {
+        "en": "Confirm for the selected specification",
+        "zh": "按所选规格确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order",
+        "zh": "起订量"
+      },
+      "value": {
+        "en": "Confirm by specification and order mix",
+        "zh": "按规格及订单组合确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Sample & lead time",
+        "zh": "样品与交期"
+      },
+      "value": {
+        "en": "Request current sample terms and production schedule",
+        "zh": "询价时确认样品条件及当前排产"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/mdf/mdf-14.jpg",
+  "gallery": [],
+  "order": 7,
+  "published": true
+}

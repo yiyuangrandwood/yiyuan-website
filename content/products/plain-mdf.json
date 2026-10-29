@@ -1,0 +1,97 @@
+{
+  "category": "mdf",
+  "title": {
+    "en": "Plain MDF",
+    "zh": "素面密度板"
+  },
+  "summary": {
+    "en": "Start with the base panel, then define your decorative finish.",
+    "zh": "先选基材，再确定饰面与加工方案。"
+  },
+  "description": {
+    "en": "A plain MDF option for furniture and interior material schedules. Compare the panel face and edge, then specify the thickness, sheet size and finish required for your component.\nTell us whether the panel will be painted, laminated or otherwise processed so the grade can be confirmed for the job.",
+    "zh": "面向家具与室内项目的素面密度板选项。可先查看板面及截面，再按部件要求确认厚度、幅面与后续饰面。\n请说明是否需要喷涂、贴面或其他加工，以便核对合适的板材等级。"
+  },
+  "features": {
+    "en": [
+      "Plain board faces for a separately defined decorative process.",
+      "Several board views help compare the face and edge.",
+      "Specify the required grade alongside the processing method."
+    ],
+    "zh": [
+      "素面基材，可另行确定装饰工艺。",
+      "多张图片便于查看板面与边部。",
+      "结合加工方式确认所需板材等级。"
+    ]
+  },
+  "applications": {
+    "en": "Furniture parts, cabinet components and interior panels, subject to grade and processing requirements.",
+    "zh": "家具零件、柜体部件及室内板材，具体以等级与加工要求为准。"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product type",
+        "zh": "产品类型"
+      },
+      "value": {
+        "en": "MDF",
+        "zh": "密度板"
+      }
+    },
+    {
+      "label": {
+        "en": "Surface / core option",
+        "zh": "表面／芯色选项"
+      },
+      "value": {
+        "en": "Plain MDF surface",
+        "zh": "素面MDF表面"
+      }
+    },
+    {
+      "label": {
+        "en": "Thickness & sheet size",
+        "zh": "厚度与幅面"
+      },
+      "value": {
+        "en": "Confirm for the selected specification",
+        "zh": "按所选规格确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order",
+        "zh": "起订量"
+      },
+      "value": {
+        "en": "Confirm by specification and order mix",
+        "zh": "按规格及订单组合确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Sample & lead time",
+        "zh": "样品与交期"
+      },
+      "value": {
+        "en": "Request current sample terms and production schedule",
+        "zh": "询价时确认样品条件及当前排产"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/mdf/mdf-04.jpg",
+  "gallery": [
+    "images/products/mdf/mdf-05.jpg",
+    "images/products/mdf/mdf-16.jpg",
+    "images/products/mdf/mdf-18.jpg",
+    "images/products/mdf/mdf-03.jpg",
+    "images/products/mdf/mdf-07.jpg",
+    "images/products/mdf/mdf-11.jpg",
+    "images/products/mdf/mdf-17.jpg",
+    "images/products/mdf/mdf-10.jpg"
+  ],
+  "order": 5,
+  "published": true
+}

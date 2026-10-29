@@ -1,0 +1,125 @@
+{
+  "category": "particleboard",
+  "title": {
+    "en": "Melamine Faced Particleboard",
+    "zh": "三聚氰胺饰面刨花板"
+  },
+  "summary": {
+    "en": "Your finish. Your thickness. A practical starting point for furniture and interiors.",
+    "zh": "选择合适的花色与厚度，为家具和室内项目确定材料起点。"
+  },
+  "description": {
+    "en": "Bring your material schedule into focus with a melamine-faced board in four listed thicknesses. Start with the look you want, then confirm the grade, sheet specification and order quantity for the job.\nSmall panel samples let you review the surface before committing to an order.",
+    "zh": "提供9、12、15及18mm四种已列明厚度和1220×2440mm标准幅面。先确定饰面效果，再按实际用途确认等级、规格及数量。\n可安排小样，便于下单前核对花色和表面。"
+  },
+  "features": {
+    "en": [
+      "Four listed thicknesses for different material schedules.",
+      "Melamine surfaces with colour and branding options to discuss.",
+      "Small panel samples available for surface review."
+    ],
+    "zh": [
+      "四种已列明厚度，方便按材料清单选型。",
+      "三聚氰胺饰面，可沟通花色与标识要求。",
+      "可先安排小样，核对表面效果。"
+    ]
+  },
+  "applications": {
+    "en": "Furniture and interior fit-outs. Confirm the board grade for the part, environment and processing method.",
+    "zh": "家具与室内项目。请结合具体部位、环境和加工方式确认板材等级。"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Material",
+        "zh": "材料"
+      },
+      "value": {
+        "en": "Poplar / mixed wood; configuration to confirm",
+        "zh": "杨木/杂木，具体配置按型号确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Thickness",
+        "zh": "厚度"
+      },
+      "value": {
+        "en": "9 / 12 / 15 / 18 mm",
+        "zh": "9 / 12 / 15 / 18 mm"
+      }
+    },
+    {
+      "label": {
+        "en": "Sheet size",
+        "zh": "标准尺寸"
+      },
+      "value": {
+        "en": "1220 × 2440 mm",
+        "zh": "1220 × 2440 mm"
+      }
+    },
+    {
+      "label": {
+        "en": "Surface",
+        "zh": "饰面"
+      },
+      "value": {
+        "en": "Melamine faced; decor to order",
+        "zh": "三聚氰胺饰面，花色按订单确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Order quantity",
+        "zh": "起订量"
+      },
+      "value": {
+        "en": "20GP or 40HQ container; loading plan to confirm",
+        "zh": "20GP或40HQ整柜，装载方案另行确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Production",
+        "zh": "生产周期"
+      },
+      "value": {
+        "en": "Listed 40HQ order: typically 20–35 days; start date and schedule to confirm",
+        "zh": "已列明40HQ订单通常20–35天，具体起算条件及排产另行确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Small panel samples",
+        "zh": "板材小样"
+      },
+      "value": {
+        "en": "10 × 10 or 20 × 30 cm; 1–3 pieces; 1–5 days preparation. No sample charge; shipping to confirm.",
+        "zh": "10×10或20×30cm，1–3块，准备1–5天。小样免费，运费另行确认。"
+      }
+    },
+    {
+      "label": {
+        "en": "Custom decor",
+        "zh": "花色定制"
+      },
+      "value": {
+        "en": "200+ sheets per colour; overall order minimum applies",
+        "zh": "同花色200张起，整单仍须满足订单起订条件"
+      }
+    }
+  ],
+  "cover": "images/products/particleboard/particleboard-03.jpg",
+  "gallery": [
+    "images/products/particleboard/particleboard-06.jpg",
+    "images/products/particleboard/particleboard-13.jpg",
+    "images/products/particleboard/particleboard-16.jpg",
+    "images/products/particleboard/particleboard-07.jpg",
+    "images/products/particleboard/particleboard-08.jpg",
+    "images/products/particleboard/particleboard-04.jpg"
+  ],
+  "featured": true,
+  "order": 1,
+  "published": true
+}

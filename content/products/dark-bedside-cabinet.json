@@ -1,0 +1,98 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Dark Two-Drawer Bedside Cabinet",
+    "zh": "深色双抽床头柜"
+  },
+  "summary": {
+    "en": "Keep bedside essentials within a compact, coordinated storage piece.",
+    "zh": "用紧凑的双抽收纳整理床边常用物品。"
+  },
+  "description": {
+    "en": "A dark bedside-cabinet design with two drawer fronts and a simple top surface for everyday items. The restrained shape works as a starting point for matching a bedroom furniture scheme.\nConfirm the cabinet dimensions, board finish, drawer hardware and packing arrangement when requesting a quotation.",
+    "zh": "深色床头柜采用双抽屉外观与简洁台面，适合从统一卧室风格出发安排床边收纳。\n询价时请核对柜体尺寸、板材饰面、抽屉五金及包装形式。"
+  },
+  "features": {
+    "en": [
+      "Two-drawer front arrangement.",
+      "Dark finish with a simple rectangular profile.",
+      "Size, handles and drawer hardware confirmed by model."
+    ],
+    "zh": [
+      "双抽屉正面布局。",
+      "深色外观与简洁方形轮廓。",
+      "尺寸、拉手及抽屉五金按款式确认。"
+    ]
+  },
+  "applications": {
+    "en": "Bedrooms and bedside storage",
+    "zh": "卧室与床边收纳"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Dark Two-Drawer Bedside Cabinet",
+        "zh": "深色双抽床头柜"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Dark finish; two drawers",
+        "zh": "深色外观，双抽屉"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Bedrooms and bedside storage",
+        "zh": "卧室与床边收纳"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-07.jpg",
+  "gallery": [],
+  "order": 14,
+  "published": true
+}

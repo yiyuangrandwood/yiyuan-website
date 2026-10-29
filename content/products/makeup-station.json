@@ -1,0 +1,98 @@
+{
+  "category": "furniture",
+  "title": {
+    "en": "Makeup & Dressing Station",
+    "zh": "化妆间梳妆工作台"
+  },
+  "summary": {
+    "en": "A mirror-led station for an organised dressing area.",
+    "zh": "围绕镜面布置梳妆与收纳区域。"
+  },
+  "description": {
+    "en": "Mirror-fronted dressing stations are shown in several colour arrangements. This style is a starting point for planning a dedicated makeup area, with a tabletop and storage positioned around the mirror.\nConfirm the finish, mirror accessories, stool and any lighting requirements for the chosen configuration.",
+    "zh": "配图展示多种配色的镜面梳妆工作台，可作为化妆区域的选款起点，围绕镜面安排台面与收纳。\n所选配置的饰面、镜面配件、坐凳及灯光需求需分别确认。"
+  },
+  "features": {
+    "en": [
+      "Dedicated mirror and work surface.",
+      "Several colour arrangements shown in the reference image.",
+      "Accessories and lighting requirements agreed with the model."
+    ],
+    "zh": [
+      "独立镜面与操作台面。",
+      "配图展示多种配色组合。",
+      "配件及灯光需求按具体款式确认。"
+    ]
+  },
+  "applications": {
+    "en": "Dressing rooms and makeup station enquiries",
+    "zh": "化妆间及梳妆工作台选型"
+  },
+  "specs": [
+    {
+      "label": {
+        "en": "Product style",
+        "zh": "产品款式"
+      },
+      "value": {
+        "en": "Makeup & Dressing Station",
+        "zh": "化妆间梳妆工作台"
+      }
+    },
+    {
+      "label": {
+        "en": "Appearance",
+        "zh": "外观方案"
+      },
+      "value": {
+        "en": "Mirror-fronted stations in multiple colour arrangements",
+        "zh": "多种配色的镜面梳妆台"
+      }
+    },
+    {
+      "label": {
+        "en": "Intended setting",
+        "zh": "应用方向"
+      },
+      "value": {
+        "en": "Dressing rooms and makeup station enquiries",
+        "zh": "化妆间及梳妆工作台选型"
+      }
+    },
+    {
+      "label": {
+        "en": "Dimensions & materials",
+        "zh": "尺寸与材料"
+      },
+      "value": {
+        "en": "Confirm for the selected model",
+        "zh": "按所选款式确认"
+      }
+    },
+    {
+      "label": {
+        "en": "Minimum order & sample",
+        "zh": "起订量与样品"
+      },
+      "value": {
+        "en": "Request model-specific order and sample terms",
+        "zh": "按款式询价确认起订量及样品条件"
+      }
+    },
+    {
+      "label": {
+        "en": "Packing & delivery",
+        "zh": "包装与交期"
+      },
+      "value": {
+        "en": "Confirm packing, assembly requirements and current lead time",
+        "zh": "核对包装、组装要求及当前交期"
+      }
+    }
+  ],
+  "featured": false,
+  "cover": "images/products/furniture/furniture-06.jpg",
+  "gallery": [],
+  "order": 13,
+  "published": true
+}
