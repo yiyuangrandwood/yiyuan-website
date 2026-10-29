@@ -1,0 +1,472 @@
+# Pages CMS 配置：上传到 GitHub 仓库根目录，文件名开头的点不能省略。
+media:
+- name: images
+  label: 网站图片
+  input: images
+  output: /images
+  rename: random
+  categories:
+  - image
+  extensions:
+  - jpg
+  - jpeg
+  - png
+  - webp
+  - gif
+content:
+- name: products
+  label: 产品管理
+  type: collection
+  path: content/products
+  format: json
+  subfolders: false
+  filename:
+    template: '{year}{month}{day}-{hour}{minute}{second}.json'
+    field: false
+  operations:
+    create: true
+    rename: false
+    delete: true
+  view:
+    primary: title.zh
+    fields:
+    - cover
+    - title.zh
+    - category
+    - published
+    sort:
+    - order
+    - title.zh
+    search:
+    - title.zh
+    - title.en
+    default:
+      sort: order
+      order: asc
+  fields:
+  - name: title
+    label: 产品名称
+    type: object
+    fields:
+    - name: en
+      label: English · 英文
+      type: string
+      required: true
+    - name: zh
+      label: 中文
+      type: string
+      required: true
+  - name: category
+    label: 产品分类
+    type: select
+    required: true
+    options:
+      values:
+      - name: particleboard
+        label: 刨花板
+      - name: mdf
+        label: 密度板
+      - name: furniture
+        label: 家具
+      - name: other
+        label: 其他
+  - name: published
+    label: 上架到网站
+    type: boolean
+    default: false
+    description: 勾选并保存后会发布到网站；取消勾选后保存即可下架。
+  - name: featured
+    label: 首页推荐
+    type: boolean
+    default: false
+  - name: order
+    label: 显示顺序（数字越小越靠前）
+    type: number
+    default: 100
+  - name: cover
+    label: 产品主图（点击选择或上传）
+    type: image
+    options:
+      media: images
+      path: images/products
+      rename: random
+    required: true
+  - name: gallery
+    label: 细节图片（可多选、拖动排序）
+    type: image
+    options:
+      media: images
+      path: images/products
+      rename: random
+      multiple:
+        max: 20
+      unique: true
+    required: false
+  - name: summary
+    label: 一句话卖点
+    type: object
+    fields:
+    - name: en
+      label: English · 英文
+      type: text
+      required: false
+    - name: zh
+      label: 中文
+      type: text
+      required: false
+  - name: description
+    label: 产品介绍
+    type: object
+    fields:
+    - name: en
+      label: English · 英文
+      type: text
+      required: false
+    - name: zh
+      label: 中文
+      type: text
+      required: false
+  - name: features
+    label: 产品优点（点击增加条目）
+    type: object
+    fields:
+    - name: en
+      label: English · 英文
+      type: string
+      required: false
+      list: true
+    - name: zh
+      label: 中文
+      type: string
+      required: false
+      list: true
+  - name: applications
+    label: 使用场景与适用条件
+    type: object
+    fields:
+    - name: en
+      label: English · 英文
+      type: text
+      required: false
+    - name: zh
+      label: 中文
+      type: text
+      required: false
+  - name: specs
+    label: 规格参数（点击增加一行）
+    type: object
+    list: true
+    fields:
+    - name: label
+      label: 参数名称
+      type: object
+      fields:
+      - name: en
+        label: English · 英文
+        type: string
+        required: false
+      - name: zh
+        label: 中文
+        type: string
+        required: false
+    - name: value
+      label: 参数内容
+      type: object
+      fields:
+      - name: en
+        label: English · 英文
+        type: text
+        required: false
+      - name: zh
+        label: 中文
+        type: text
+        required: false
+- name: site
+  label: 公司资料与分类
+  type: file
+  path: content/site.json
+  format: json
+  operations:
+    create: false
+    rename: false
+    delete: false
+  fields:
+  - name: settings
+    label: 公司与联系方式
+    type: object
+    fields:
+    - name: company
+      label: 页头品牌名称
+      type: string
+      required: true
+    - name: companyNames
+      label: 完整公司名称
+      type: object
+      fields:
+      - name: en
+        label: English · 英文
+        type: string
+        required: true
+      - name: zh
+        label: 中文
+        type: string
+        required: true
+    - name: contactName
+      label: 联系人
+      type: string
+    - name: email
+      label: 联系邮箱
+      type: string
+      required: true
+    - name: phone
+      label: 电话（可留空）
+      type: string
+    - name: whatsapp
+      label: WhatsApp号码（含国家区号）
+      type: string
+    - name: whatsappDisplay
+      label: WhatsApp显示格式
+      type: string
+    - name: address
+      label: 详细地址
+      type: object
+      fields:
+      - name: en
+        label: English · 英文
+        type: string
+        required: false
+      - name: zh
+        label: 中文
+        type: string
+        required: false
+    - name: about
+      label: 公司介绍
+      type: object
+      fields:
+      - name: en
+        label: English · 英文
+        type: text
+        required: false
+      - name: zh
+        label: 中文
+        type: text
+        required: false
+  - name: assets
+    label: 公司照片
+    type: object
+    fields:
+    - name: courtyard
+      label: 首页场地照片
+      type: image
+      options:
+        media: images
+        path: images/factory
+        rename: random
+      required: false
+    - name: entrance
+      label: 公司介绍照片
+      type: image
+      options:
+        media: images
+        path: images/factory
+        rename: random
+      required: false
+  - name: categories
+    label: 产品分类信息
+    type: object
+    fields:
+    - name: particleboard
+      label: 刨花板
+      type: object
+      fields:
+      - name: title
+        label: 分类标题
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: string
+          required: false
+        - name: zh
+          label: 中文
+          type: string
+          required: false
+      - name: short
+        label: 分类简称
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: string
+          required: false
+        - name: zh
+          label: 中文
+          type: string
+          required: false
+      - name: description
+        label: 分类简介
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: text
+          required: false
+        - name: zh
+          label: 中文
+          type: text
+          required: false
+      - name: cover
+        label: 分类展示图片
+        type: image
+        options:
+          media: images
+          path: images/products
+          rename: random
+        required: false
+    - name: mdf
+      label: 密度板
+      type: object
+      fields:
+      - name: title
+        label: 分类标题
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: string
+          required: false
+        - name: zh
+          label: 中文
+          type: string
+          required: false
+      - name: short
+        label: 分类简称
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: string
+          required: false
+        - name: zh
+          label: 中文
+          type: string
+          required: false
+      - name: description
+        label: 分类简介
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: text
+          required: false
+        - name: zh
+          label: 中文
+          type: text
+          required: false
+      - name: cover
+        label: 分类展示图片
+        type: image
+        options:
+          media: images
+          path: images/products
+          rename: random
+        required: false
+    - name: furniture
+      label: 家具
+      type: object
+      fields:
+      - name: title
+        label: 分类标题
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: string
+          required: false
+        - name: zh
+          label: 中文
+          type: string
+          required: false
+      - name: short
+        label: 分类简称
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: string
+          required: false
+        - name: zh
+          label: 中文
+          type: string
+          required: false
+      - name: description
+        label: 分类简介
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: text
+          required: false
+        - name: zh
+          label: 中文
+          type: text
+          required: false
+      - name: cover
+        label: 分类展示图片
+        type: image
+        options:
+          media: images
+          path: images/products
+          rename: random
+        required: false
+    - name: other
+      label: 其他
+      type: object
+      fields:
+      - name: title
+        label: 分类标题
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: string
+          required: false
+        - name: zh
+          label: 中文
+          type: string
+          required: false
+      - name: short
+        label: 分类简称
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: string
+          required: false
+        - name: zh
+          label: 中文
+          type: string
+          required: false
+      - name: description
+        label: 分类简介
+        type: object
+        fields:
+        - name: en
+          label: English · 英文
+          type: text
+          required: false
+        - name: zh
+          label: 中文
+          type: text
+          required: false
+      - name: cover
+        label: 分类展示图片
+        type: image
+        options:
+          media: images
+          path: images/products
+          rename: random
+        required: false
+settings:
+  content:
+    merge: true
