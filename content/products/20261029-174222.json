@@ -1,0 +1,11 @@
+{
+  "title": {
+    "en": "Test product",
+    "zh": "测试产品"
+  },
+  "category": "mdf",
+  "published": false,
+  "featured": false,
+  "order": 100,
+  "cover": "/images/products/mvtctw8v-d9bptngc.jpg"
+}
