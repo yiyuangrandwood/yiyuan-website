@@ -14,12 +14,12 @@
   },
   "features": {
     "en": [
-      "1220 × 2440 mm sheets for a clearly defined material schedule.",
+      "Standard 1220 × 2440 mm sheets; custom sizes available.",
       "Decor and branding options discussed against your order.",
       "Review samples before confirming a production specification."
     ],
     "zh": [
-      "1220×2440mm标准幅面，方便核对材料清单。",
+      "标准幅面为1220×2440mm，尺寸可定制。",
       "花色与标识要求按订单沟通。",
       "通过样品确认表面，再确定生产规格。"
     ]
@@ -52,11 +52,11 @@
     {
       "label": {
         "en": "Sheet size",
-        "zh": "标准尺寸"
+        "zh": "板材尺寸"
       },
       "value": {
-        "en": "1220 × 2440 mm",
-        "zh": "1220 × 2440 mm"
+        "en": "1220 × 2440 mm (Custom sizes available)",
+        "zh": "1220 × 2440 mm（尺寸可定制）"
       }
     },
     {
