@@ -1,5 +1,4 @@
-/* 产品资料：en为英文，zh为中文。图片独立存放于images/products/。
- * page是已制作的产品HTML入口。新增/复制产品不填page时自动使用通用详情页。 */
+/* Generated from published product files. */
 window.YIYUAN_PRODUCTS = [
   {
     "id": "melamine-particleboard",
@@ -14,7 +13,7 @@ window.YIYUAN_PRODUCTS = [
     },
     "description": {
       "en": "Bring your material schedule into focus with a melamine-faced board in four listed thicknesses. Start with the look you want, then confirm the grade, sheet specification and order quantity for the job.\nSmall panel samples let you review the surface before committing to an order.",
-      "zh": "提供9、12、15及18mm四种已列明厚度和1220×2440mm标准幅面。先确定饰面效果，再按实际用途确认等级、规格及数量。\n可安排小样，便于下单前核对花色和表面。"
+      "zh": "提供9、12、15及18mm四种已列明厚度和1220×2440mm标准幅面，尺寸可定制。先确定饰面效果，再按实际用途确认等级、规格及数量。\n可安排小样，便于下单前核对花色和表面。"
     },
     "features": {
       "en": [
@@ -56,11 +55,11 @@ window.YIYUAN_PRODUCTS = [
       {
         "label": {
           "en": "Sheet size",
-          "zh": "标准尺寸"
+          "zh": "板材尺寸"
         },
         "value": {
-          "en": "1220 × 2440 mm",
-          "zh": "1220 × 2440 mm"
+          "en": "1220 × 2440 mm (Custom sizes available)",
+          "zh": "1220 × 2440 mm（尺寸可定制）"
         }
       },
       {
@@ -210,7 +209,6 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/particleboard/particleboard-09.jpg",
     "gallery": [
       "images/products/particleboard/particleboard-01.jpg",
@@ -224,8 +222,9 @@ window.YIYUAN_PRODUCTS = [
       "images/products/particleboard/particleboard-19.jpg",
       "images/products/particleboard/particleboard-20.jpg"
     ],
-    "page": "products/plain-particleboard.html",
-    "order": 2
+    "featured": false,
+    "order": 2,
+    "page": "products/plain-particleboard.html"
   },
   {
     "id": "woodgrain-particleboard",
@@ -310,11 +309,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
-    "cover": "images/products/particleboard/particleboard-12.jpg",
+    "cover": "images/products/particleboard/particleboard-12-custom.png",
     "gallery": [],
-    "page": "products/woodgrain-particleboard.html",
-    "order": 3
+    "featured": false,
+    "order": 3,
+    "page": "products/woodgrain-particleboard.html"
   },
   {
     "id": "melamine-mdf",
@@ -333,12 +332,12 @@ window.YIYUAN_PRODUCTS = [
     },
     "features": {
       "en": [
-        "1220 × 2440 mm sheets for a clearly defined material schedule.",
+        "Standard 1220 × 2440 mm sheets; custom sizes available.",
         "Decor and branding options discussed against your order.",
         "Review samples before confirming a production specification."
       ],
       "zh": [
-        "1220×2440mm标准幅面，方便核对材料清单。",
+        "标准幅面为1220×2440mm，尺寸可定制。",
         "花色与标识要求按订单沟通。",
         "通过样品确认表面，再确定生产规格。"
       ]
@@ -371,11 +370,11 @@ window.YIYUAN_PRODUCTS = [
       {
         "label": {
           "en": "Sheet size",
-          "zh": "标准尺寸"
+          "zh": "板材尺寸"
         },
         "value": {
-          "en": "1220 × 2440 mm",
-          "zh": "1220 × 2440 mm"
+          "en": "1220 × 2440 mm (Custom sizes available)",
+          "zh": "1220 × 2440 mm（尺寸可定制）"
         }
       },
       {
@@ -524,7 +523,6 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/mdf/mdf-04.jpg",
     "gallery": [
       "images/products/mdf/mdf-05.jpg",
@@ -536,8 +534,9 @@ window.YIYUAN_PRODUCTS = [
       "images/products/mdf/mdf-17.jpg",
       "images/products/mdf/mdf-10.jpg"
     ],
-    "page": "products/plain-mdf.html",
-    "order": 5
+    "featured": false,
+    "order": 5,
+    "page": "products/plain-mdf.html"
   },
   {
     "id": "woodgrain-mdf",
@@ -622,13 +621,13 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/mdf/mdf-06.jpg",
     "gallery": [
       "images/products/mdf/mdf-12.jpg"
     ],
-    "page": "products/woodgrain-mdf.html",
-    "order": 6
+    "featured": false,
+    "order": 6,
+    "page": "products/woodgrain-mdf.html"
   },
   {
     "id": "dark-faced-mdf",
@@ -713,11 +712,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/mdf/mdf-14.jpg",
     "gallery": [],
-    "page": "products/dark-faced-mdf.html",
-    "order": 7
+    "featured": false,
+    "order": 7,
+    "page": "products/dark-faced-mdf.html"
   },
   {
     "id": "red-core-mdf",
@@ -812,13 +811,13 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/mdf/mdf-19.jpg",
     "gallery": [
       "images/products/mdf/mdf-20.jpg"
     ],
-    "page": "products/red-core-mdf.html",
-    "order": 8
+    "featured": false,
+    "order": 8,
+    "page": "products/red-core-mdf.html"
   },
   {
     "id": "green-core-mdf",
@@ -913,13 +912,13 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/mdf/mdf-22.jpg",
     "gallery": [
       "images/products/mdf/mdf-21.jpg"
     ],
-    "page": "products/green-core-mdf.html",
-    "order": 9
+    "featured": false,
+    "order": 9,
+    "page": "products/green-core-mdf.html"
   },
   {
     "id": "white-mirror-dressing-table",
@@ -1014,11 +1013,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-01.jpg",
     "gallery": [],
-    "page": "products/white-mirror-dressing-table.html",
-    "order": 10
+    "featured": false,
+    "order": 10,
+    "page": "products/white-mirror-dressing-table.html"
   },
   {
     "id": "desk-with-bookshelf",
@@ -1113,11 +1112,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-02.jpg",
     "gallery": [],
-    "page": "products/desk-with-bookshelf.html",
-    "order": 11
+    "featured": false,
+    "order": 11,
+    "page": "products/desk-with-bookshelf.html"
   },
   {
     "id": "white-wall-mounted-bathroom-vanity",
@@ -1212,14 +1211,14 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-03.jpg",
     "gallery": [
       "images/products/furniture/furniture-04.jpg",
       "images/products/furniture/furniture-05.jpg"
     ],
-    "page": "products/white-wall-mounted-bathroom-vanity.html",
-    "order": 12
+    "featured": false,
+    "order": 12,
+    "page": "products/white-wall-mounted-bathroom-vanity.html"
   },
   {
     "id": "makeup-station",
@@ -1314,11 +1313,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-06.jpg",
     "gallery": [],
-    "page": "products/makeup-station.html",
-    "order": 13
+    "featured": false,
+    "order": 13,
+    "page": "products/makeup-station.html"
   },
   {
     "id": "dark-bedside-cabinet",
@@ -1413,11 +1412,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-07.jpg",
     "gallery": [],
-    "page": "products/dark-bedside-cabinet.html",
-    "order": 14
+    "featured": false,
+    "order": 14,
+    "page": "products/dark-bedside-cabinet.html"
   },
   {
     "id": "two-tone-tv-console",
@@ -1512,13 +1511,13 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": true,
     "cover": "images/products/furniture/furniture-08.jpg",
     "gallery": [
       "images/products/furniture/furniture-09.jpg"
     ],
-    "page": "products/two-tone-tv-console.html",
-    "order": 15
+    "featured": true,
+    "order": 15,
+    "page": "products/two-tone-tv-console.html"
   },
   {
     "id": "tilt-out-shoe-cabinet",
@@ -1613,13 +1612,13 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-10.jpg",
     "gallery": [
       "images/products/furniture/furniture-11.jpg"
     ],
-    "page": "products/tilt-out-shoe-cabinet.html",
-    "order": 16
+    "featured": false,
+    "order": 16,
+    "page": "products/tilt-out-shoe-cabinet.html"
   },
   {
     "id": "wall-display-shelves",
@@ -1714,11 +1713,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-12.jpg",
     "gallery": [],
-    "page": "products/wall-display-shelves.html",
-    "order": 17
+    "featured": false,
+    "order": 17,
+    "page": "products/wall-display-shelves.html"
   },
   {
     "id": "dressing-table-side-drawers",
@@ -1813,11 +1812,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-13.jpg",
     "gallery": [],
-    "page": "products/dressing-table-side-drawers.html",
-    "order": 18
+    "featured": false,
+    "order": 18,
+    "page": "products/dressing-table-side-drawers.html"
   },
   {
     "id": "woodgrain-dressing-table",
@@ -1912,11 +1911,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-14.jpg",
     "gallery": [],
-    "page": "products/woodgrain-dressing-table.html",
-    "order": 19
+    "featured": false,
+    "order": 19,
+    "page": "products/woodgrain-dressing-table.html"
   },
   {
     "id": "white-drawer-chest",
@@ -2011,11 +2010,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-15.jpg",
     "gallery": [],
-    "page": "products/white-drawer-chest.html",
-    "order": 20
+    "featured": false,
+    "order": 20,
+    "page": "products/white-drawer-chest.html"
   },
   {
     "id": "white-door-storage-cabinet",
@@ -2110,11 +2109,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-16.jpg",
     "gallery": [],
-    "page": "products/white-door-storage-cabinet.html",
-    "order": 21
+    "featured": false,
+    "order": 21,
+    "page": "products/white-door-storage-cabinet.html"
   },
   {
     "id": "dark-living-room-table-set",
@@ -2209,11 +2208,11 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-17.jpg",
     "gallery": [],
-    "page": "products/dark-living-room-table-set.html",
-    "order": 22
+    "featured": false,
+    "order": 22,
+    "page": "products/dark-living-room-table-set.html"
   },
   {
     "id": "wire-basket-tables",
@@ -2308,13 +2307,13 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-18.jpg",
     "gallery": [
       "images/products/furniture/furniture-19.jpg"
     ],
-    "page": "products/wire-basket-tables.html",
-    "order": 23
+    "featured": false,
+    "order": 23,
+    "page": "products/wire-basket-tables.html"
   },
   {
     "id": "dark-stone-bathroom-vanity",
@@ -2409,13 +2408,13 @@ window.YIYUAN_PRODUCTS = [
         }
       }
     ],
-    "featured": false,
     "cover": "images/products/furniture/furniture-20.jpg",
     "gallery": [
       "images/products/furniture/furniture-22.jpg",
       "images/products/furniture/furniture-21.jpg"
     ],
-    "page": "products/dark-stone-bathroom-vanity.html",
-    "order": 24
+    "featured": false,
+    "order": 24,
+    "page": "products/dark-stone-bathroom-vanity.html"
   }
 ];

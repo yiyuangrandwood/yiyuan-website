@@ -1,11 +1,17 @@
-/* 全站公司资料、分类与图片路径，修改后所有页面共用。 */
+/* Generated from content/site.json. */
 window.YIYUAN_SITE = {
-  "version": 3,
+  "version": 4,
   "settings": {
-    "company": "YIYUAN WOOD",
+    "company": "YIYUAN GRAND WOOD INDUSTRY CO.,LTD.",
+    "companyNames": {
+      "en": "YIYUAN GRAND WOOD INDUSTRY CO., LTD.",
+      "zh": "沂源乾博霖木业有限公司"
+    },
     "email": "yiyuangrandwood@163.com",
     "phone": "",
+    "contactName": "ELLA",
     "whatsapp": "+8618706685663",
+    "whatsappDisplay": "+86 187 0668 5663",
     "address": {
       "en": "200 m East of Xucun Village Committee, Nanma Subdistrict, Yiyuan County, Zibo, Shandong, China",
       "zh": "山东省淄博市沂源县南麻街道办事处许村村民委员会东200米"
@@ -13,13 +19,7 @@ window.YIYUAN_SITE = {
     "about": {
       "en": "Yiyuan Wood brings together wood-based panels and furniture options for furniture makers, material buyers and interior projects. Our current range centres on melamine-faced particleboard, melamine MDF and furniture.\nA good material order starts with a clear brief: the intended use, the right board configuration, a finish you have reviewed, and delivery conditions agreed in advance.",
       "zh": "沂源木业提供人造板与家具产品，面向家具制造、材料采购及室内项目需求。目前展示范围以三聚氰胺饰面刨花板、饰面密度板和家具为主。\n从用途、板材配置、样品效果到交付条件，清晰的规格沟通是订单的起点。"
-    },
-    "companyNames": {
-      "en": "Shandong Yiyuan Wood Industry Co., Ltd.",
-      "zh": "沂源乾博霖木业有限公司"
-    },
-    "whatsappDisplay": "+86 187 0668 5663",
-    "contactName": "ELLA"
+    }
   },
   "categories": {
     "particleboard": {
@@ -83,7 +83,8 @@ window.YIYUAN_SITE = {
       "description": {
         "en": "More options for your material schedule.",
         "zh": "更多材料与产品选择。"
-      }
+      },
+      "cover": ""
     }
   },
   "assets": {
