@@ -203,47 +203,15 @@ p {
 }
 
 .brand {
-  display:inline-flex;
-  align-items:center;
-  gap:12px;
-  line-height:1;
-  font-size:22px;
+  display:inline-block;
+  min-width:0;
+  max-width:280px;
+  line-height:1.25;
+  font-size:15px;
   font-weight:650;
-  letter-spacing:.12em;
-  flex-shrink:0
-}
-
-.brand-sub {
-  display:block;
-  font-size:8px;
-  letter-spacing:.23em;
-  margin-top:7px;
-  font-weight:500
-}
-
-.brand-mark {
-  position:relative;
-  width:33px;
-  height:37px;
-  display:inline-block
-}
-
-.brand-mark i {
-  position:absolute;
-  width:29px;
-  height:16px;
-  transform:skewY(-25deg);
-  border:1.6px solid currentColor;
-  left:1px;
-  top:2px
-}
-
-.brand-mark i:nth-child(2) {
-  top:10px
-}
-
-.brand-mark i:nth-child(3) {
-  top:18px
+  letter-spacing:.04em;
+  overflow-wrap:anywhere;
+  flex:0 1 280px
 }
 
 .desktop-nav {
@@ -275,14 +243,16 @@ p {
 .header-actions {
   display:flex;
   align-items:center;
-  gap:24px
+  gap:24px;
+  flex-shrink:0
 }
 
 .language {
   font-size:11px;
   display:flex;
   gap:12px;
-  align-items:center
+  align-items:center;
+  white-space:nowrap
 }
 
 .header-cta {
@@ -895,11 +865,8 @@ p {
 }
 
 .site-footer .brand {
-  font-size:20px
-}
-
-.site-footer .brand-sub {
-  font-size:7px
+  max-width:100%;
+  font-size:15px
 }
 
 .footer-brand p {
@@ -1670,18 +1637,7 @@ p {
   }
 
   .brand {
-    font-size:19px;
-    gap:9px
-  }
-
-  .brand-sub {
-    font-size:7px
-  }
-
-  .brand-mark {
-    transform:scale(.85);
-    transform-origin:left center;
-    width:29px
+    font-size:13px
   }
 
   .desktop-nav {
@@ -2308,8 +2264,12 @@ p {
 }
 
 @media(max-width:390px) {
+  .header-inner {
+    gap:12px
+  }
+
   .brand {
-    font-size:16px
+    font-size:12px
   }
 
   .header-actions {
